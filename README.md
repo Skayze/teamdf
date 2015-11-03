@@ -1,7 +1,4 @@
-# teamdf
-Ikke Dansk Folkeparti, men hold D og F. GUI ftw.
-<<<<<<< HEAD
 
-Alexander er tilføjet
+Alexander er tilføjet \n
 Christian Bjørn Moeslund. Bitches.
 
